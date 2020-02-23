@@ -1,0 +1,113 @@
+
+body 
+{
+    background: -webkit-linear-gradient( #DBDAD9, #CECECE, #BABABA, #A6A6A6);
+    background: -o-linear-gradient(#DBDAD9, #CECECE, #BABABA,#A6A6A6);
+    background: -moz-linear-gradient(#DBDAD9, #CECECE, #BABABA,#A6A6A6);
+    background: linear-gradient(#DBDAD9, #CECECE, #BABABA,#A6A6A6);
+    background-color: #DBDAD9;
+}
+
+@font-face
+{
+	font-family: 'Matchbook' ;
+	src: url('Matchbook.otf');
+}
+
+p
+{
+	font-size: 2em;
+	color : black;
+	font-family: 'Matchbook',Arial, "Arial black", Impact, Verdana, sans-serif,
+	"Comic sans MS", serif;
+	text-align: center;
+	width: 1000px;
+	padding: 16px;
+	margin: auto;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	background-color: #9E9E9E;
+	
+
+}
+
+h1
+{
+	font-size: 3em;
+	font-family : 'Matchbook', sans-serif,serif;
+	width: 1000px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 2px double green;
+	border-radius: 10px 10px;
+	background-color: #88C1A4;
+}
+
+
+h2
+{
+	color : navy;
+	font-size: 1.5em;
+	font-family: "Comic sans MS", Arial, Impact, sans-serif,serif;
+	text-align: center;
+	text-decoration: underline;
+	border : 2px double black;
+	width: 1000px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 12px;
+	border-radius: 10px 10px;
+	background-color: #88C1A4;
+}
+
+ul
+{
+	font-size : 1.1em;
+	color : navy;
+	text-decoration: underline;
+	font-family : 'Matchbook',"Comic sans MS", Arial,"Arial Black", sans-serif
+	, serif;
+	text-align: justify;
+	border: 2px double grey;
+	border-radius: 10px;
+	padding: 12px;
+	border-radius: 10px 10px;
+	background-color: #9E9E9E;
+
+}
+
+li
+{
+	font-size: 1.8em;
+	font-family: 'Matchbook',"Comic sans MS", Arial, "Arial BLack", sans-serif,
+	serif;
+	text-align: center;
+}
+
+em
+{
+	font-size: 1.2em;
+}
+
+a
+{
+	font-size:1.1em;
+	text-align: justify;
+	border: 2px double grey;
+	padding: 12px;
+	border-radius: 10px 10px;
+	background-color: #9E9E9E;
+}
+
+img
+{
+	border : 2px double black;
+
+}
+
+strong
+{
+	color:navy;
+}
